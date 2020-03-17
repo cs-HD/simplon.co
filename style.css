@@ -1,0 +1,33 @@
+body{
+    background-color: antiquewhite;
+    font-weight: 900;
+    font-family: fantasy;
+}
+
+img {
+    width: 250px;
+    height: 250px;
+    border: solid rgb(82, 31, 31);
+    float: right;
+}
+
+h1
+{
+    text-align: initial;
+    color: red;
+    
+}
+ul li ul li{
+    list-style: none;
+}
+
+ul li, p {
+    text-shadow: 1px 1px 1px yellowgreen;
+    
+    margin: 10px;
+    padding: 1px;
+}
+footer{
+    text-align: center;
+}
+/*  Pour les exos :  background-color, color, font-weight, align, shadow, border, float, margin, padding, height, width */
